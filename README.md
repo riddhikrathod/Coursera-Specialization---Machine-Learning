@@ -1,4 +1,4 @@
-# Machine Learning Specialiaztion - DLAI
+# Machine Learning Specialization - DLAI
 
 Personal Notes and Course Materials
 
